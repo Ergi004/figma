@@ -1,0 +1,58 @@
+{
+  "cards": [
+    {
+      "img": "/img/cardsImages/img(1).svg",
+      "title": "Build continuous integration pipelines with GitHub Actions",
+      "body": "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+      "id": 1
+    },
+    {
+      "img": "/img/cardsImages/img(2).svg",
+      "title": "Build continuous integration pipelines with GitHub Actions",
+      "body": "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+      "id": 2
+    },
+    {
+      "img": "/img/cardsImages/img(3).svg",
+      "title": "Build continuous integration pipelines with GitHub Actions",
+      "body": "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+      "id": 3
+    },
+    {
+      "img": "/img/cardsImages/img(4).svg",
+      "title": "Python for the Absolute beginners",
+      "body": "Python is the most popular programming language out there and it is used for so many different industries.",
+      "id": 4
+    },
+    {
+      "img": "/img/cardsImages/img(5).svg",
+      "title": "Build continuous integration pipelines with GitHub Actions",
+      "body": "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+      "id": 5
+    },
+    {
+      "img": "/img/cardsImages/img(6).svg",
+      "title": "Build continuous integration pipelines with GitHub Actions",
+      "body": "GitHub actions provide a really powerful way to integrate continuous integration and delivery into your applications.",
+      "id": 6
+    },
+    {
+      "img": "/img/cardsImages/img(7).svg",
+      "title": "Understanding RESTful APIs",
+      "body": "Learn how to design and implement RESTful APIs for web applications.",
+      "id": 7
+    },
+    {
+      "img": "/img/cardsImages/img(8).svg",
+      "title": "Exploring Data Structures and Algorithms",
+      "body": "Study fundamental data structures and algorithms used in computer science.",
+      "id": 8
+    },
+    {
+      "img": "/img/cardsImages/img(9).svg",
+      "title": "Docker from Zero to Hero",
+      "body": "Learn what is Docker and how Docker is used in the whole software development process.",
+      "id": 9
+    }
+  ]
+}

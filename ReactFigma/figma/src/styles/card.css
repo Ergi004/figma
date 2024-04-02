@@ -1,0 +1,45 @@
+h2 {
+    font-size: 20px;
+    padding-bottom: 0;
+    margin: 20px 0 0 0;
+}
+
+p {
+    color: black;
+    padding: 0px 10px 10px 10px;
+}
+
+
+img {
+    padding: 5px;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-self: center;
+    margin: 30px auto;
+    max-width: 1500px;
+}
+
+
+.card-item {
+    max-width: 350px;
+    border-radius: 20px;
+    margin: 30px;
+    background-color: white;
+    padding: 20px;
+    transition: transform 1s, opacity 1s;
+}
+
+.cards--hidden {
+    opacity: 0;
+    transform: translateY(8rem);
+}
+
+.image {
+    padding: 20px;
+}
+
+
+

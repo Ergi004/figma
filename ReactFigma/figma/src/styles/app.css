@@ -1,0 +1,9 @@
+body {
+    margin: 0 auto 0 auto ;
+    background-color: rgb(39, 39, 50);
+    text-align: center;
+}
+
+.logo {
+    margin: 100px auto 0 auto;
+}

@@ -1,0 +1,47 @@
+footer {
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-content {
+    margin: 50px;
+    display: flex;
+    align-self: center;
+}
+
+.footer-link {
+    flex-grow: 1;
+    font-weight: 700;
+    color: white;
+    border-radius: 10px;
+    padding: 7px;
+    background-color: rgb(34, 162, 253);
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    background-color: rgb(0, 110, 255);
+}
+
+h5 {
+    padding: 10px;
+    color: white;
+    margin: 0;
+}
+
+.tweet-link {
+    padding-right: 5px;
+    background-color: rgb(0, 149, 255);
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tweet-img {
+    align-self: center;
+    padding: 5px;
+}

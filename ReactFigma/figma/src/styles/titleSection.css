@@ -1,0 +1,39 @@
+.titlesSection {
+    margin: 50px 3%;
+    overflow-x: auto;
+    color: rgba(199, 198, 196, 0.658);
+    display: flex;
+    font-size: 25px;
+    border-top: rgb(81, 81, 85) solid 1px;
+}
+
+
+img {
+    padding: 5px;
+}
+
+
+.title {
+    flex-grow: 1;
+    padding: 15px;
+}
+
+::-webkit-scrollbar {
+    width: 12px; 
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #26304c; 
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #252c43; 
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #2b3f66; 
+  }
+  
+  ::-webkit-scrollbar-thumb:active {
+    background: #0f1732; 
+  }

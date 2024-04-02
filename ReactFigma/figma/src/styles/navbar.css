@@ -1,0 +1,26 @@
+header{
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    border-bottom: 1px solid rgba(235, 234, 234, 0.835);
+    background-color: rgba(34, 34, 44, 0.85);
+    position: fixed;
+}
+
+li {
+    list-style-type: none;
+    color: rgb(203, 198, 217);
+    padding: 20px;
+}
+
+li:hover {
+    color: white;
+}
+
+.headings {
+    padding: 10px;
+    display: flex;
+}
+
